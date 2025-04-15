@@ -1,5 +1,5 @@
 // 사용자 정보
-import user from "./user_example";
+import user from "./user_example.json";
 
 const userid = user.userid;  // user_example.json 파일을 수정하세요.
 const password = user.password;  // user_example.json 파일을 수정하세요.
